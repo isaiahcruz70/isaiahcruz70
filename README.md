@@ -4,7 +4,7 @@
 
 <kbd><strong>[⁉️ Ask me anything](https://github.com/isaiahcruz70/isaiahcruz70/issues/new?assignees=isaiahcruz70&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd>
 
-- 🏗️ I'm currently working as a Idie Game Dev at [Undead Creations](https://undeadcreations.com)
+- 🏗️ I'm currently working as a Indie Game Dev at [Undead Creations](https://undeadcreations.com)
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on anything that will challenge my knowledge and help me to grow as a better software engineer
 - 💬 Ask me about anything! I'm an open book
