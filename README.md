@@ -1,7 +1,4 @@
-![Alt Text](bannerpersonal.png)
-
-## Isaiah Cruz
-
+![Personal Banner for myself](bannerpersonal.png)
 ### Hi there! Welcome to my Github page! My name is Isaiah and I'm a Software Engineer. Coffee and Code is my life motto. I have dipped my feet in many programming languages and fell in love with the MERN stack and Python(w/ Django).
 
 <kbd><strong>[⁉️ Ask me anything](https://github.com/isaiahcruz70/isaiahcruz70/issues/new?assignees=isaiahcruz70&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd>
