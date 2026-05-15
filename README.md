@@ -1,9 +1,14 @@
 ![Personal Banner for myself](bannerpersonal.png)
 ### Hi there! Welcome to my Github page! My name is Isaiah and I'm a Software Developer. Coffee and Code is my life motto. I have dipped my feet in many programming languages and fell in love with the MERN stack.
 
-<kbd><strong>[⁉️ Ask me anything](https://github.com/isaiahcruz70/isaiahcruz70/issues/new?assignees=isaiahcruz70&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd>
+## 🚀 Current Focus
 
-- 🏗️ I'm currently working on growing more as a solo developer
+- Building real-world software projects
+- Expanding my MERN stack knowledge
+- Studying business and leadership
+- Creating technology solutions for churches and communities
+- Growing into a full-time software engineering career
+  
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on anything that will challenge my knowledge and help me to grow as a better software engineer
 - 💬 Ask me about anything! I'm an open book
@@ -22,7 +27,17 @@ My main goal in life is to become a full-time software engineer at a company tha
 
 ### :fire: My Stats :
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=isaiahcruz70&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaiahcruz70&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahcruz70&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isaiahcruz70&theme=tokyonight&hide_border=true"/>
+</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaiahcruz70&theme=dark&background=000000)](https://git.io/streak-stats)
 
