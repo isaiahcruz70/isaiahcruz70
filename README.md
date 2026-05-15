@@ -1,3 +1,5 @@
+![Alt Text](bannerpersonal.png)
+
 ## Isaiah Cruz
 
 ### Hi there! Welcome to my Github page! My name is Isaiah and I'm a Software Engineer. Coffee and Code is my life motto. I have dipped my feet in many programming languages and fell in love with the MERN stack and Python(w/ Django).
