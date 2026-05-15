@@ -25,9 +25,7 @@ My main goal in life is to become a full-time software engineer at a company tha
 
 ---
 
-### :fire: My Stats :
-
-## 📊 GitHub Stats
+## :fire: My Stats :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isaiahcruz70&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
@@ -38,11 +36,6 @@ My main goal in life is to become a full-time software engineer at a company tha
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isaiahcruz70&theme=tokyonight&hide_border=true"/>
 </p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaiahcruz70&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahcruz70&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
